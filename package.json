@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-express-pug-login",
+  "version": "1.0.0",
+  "description": "login portal",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gradyrobbins/Auth0-express-pug.git"
+  },
+  "author": "following tutorial by Dan Arias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gradyrobbins/Auth0-express-pug/issues"
+  },
+  "homepage": "https://github.com/gradyrobbins/Auth0-express-pug#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
